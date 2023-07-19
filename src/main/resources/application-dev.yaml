@@ -1,0 +1,6 @@
+app:
+  jolt:
+    entitlementPostRequestJoltSpec: /EntitlementPostRequestJoltSpec.json
+    entitlementGetResponseJoltSpec: /EntitlementGetResponseJoltSpec.json
+    entitlementPostResponseJoltSpec: /EntitlementPostResponseJoltSpec.json
+    entitlementPutRequestJoltSpec: /EntitlementPutRequestJoltSpec.json

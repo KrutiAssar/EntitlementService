@@ -1,0 +1,18 @@
+[
+	{
+		"operation": "shift",
+		"spec": {
+			"userId": "entitlement.userId",
+			"traineeId": "entitlement.traineeId",
+			"userRole": "entitlement.userRole",
+			"entitlement": "entitlement.entitlement",
+			"photoUrl": "entitlement.photoUrl",
+			"linkParameter": "entitlement.linkParameter",
+			"linkValue": "entitlement.linkValue",
+			"status": "entitlement.status",
+			"existingUserInd": "entitlement.existingUserInd",
+			"creationTimestamp": "entitlement.creationTimestamp",
+			"lastUpdateTimestamp": "entitlement.lastUpdateTimestamp"
+		}
+	}
+]

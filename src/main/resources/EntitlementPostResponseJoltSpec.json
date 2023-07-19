@@ -1,0 +1,8 @@
+[
+	{
+		"operation": "shift",
+		"spec": {
+				"userId": "entitlement.userId"
+		}
+	}
+]
